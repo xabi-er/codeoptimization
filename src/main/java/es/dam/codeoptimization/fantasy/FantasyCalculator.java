@@ -16,7 +16,7 @@ public class FantasyCalculator {
         int r = 0; 
         int punts = 0;
         
-        int m = s.minutes;
+        int minutes = s.minutes;
         int g = s.goals;
         int a = s.assists;
         boolean y = s.yellowCard;
